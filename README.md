@@ -36,7 +36,10 @@
     ```
     python multi_face_trace_recongnize.py
     ```
-    
+5.  ```
+    cd web_ui
+    python server.py
+    ```    
     
  A full face tracking example by opencv can be found at 
 
