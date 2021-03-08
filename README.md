@@ -40,10 +40,18 @@
     cd web_ui
     python server.py
     ```    
-    
+
+web page
+![](data/example/web.png)
+
+
  A full face tracking example by opencv can be found at 
 
 ![](data/example/test.png)
+
+
+
+
 
 
 在mtcnn 下加入下面代码
