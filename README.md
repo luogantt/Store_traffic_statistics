@@ -14,6 +14,8 @@
 
 ## Quick start
 
+1. sudo apt install mongodb
+
 1. Either install using pip  wait about some minintr:
     ```bash
     pip install  -r requirements.txt
